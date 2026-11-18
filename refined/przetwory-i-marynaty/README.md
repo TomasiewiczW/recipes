@@ -1,0 +1,1 @@
+# Przetwory i marynaty — sprawdzona

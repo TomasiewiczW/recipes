@@ -1,11 +1,5 @@
 # Pomysły na przepisy
 
-Ten folder jest przeznaczony dla nieprzetestowanych lub niedopracowanych przepisów. Pomysły mogą zawierać:
+Przepisy w tym folderze są jeszcze niedopracowane. Mogą zawierać orientacyjne ilości składników, pytania do przetestowania i planowane zmiany.
 
-- linki do źródeł lub inspiracji
-- orientacyjne ilości składników
-- kwestie wymagające przetestowania
-- proponowane zmiany na kolejną próbę
-- notatki z wczesnych prób przygotowania
-
-Przenieś przepis do folderu `refined/`, gdy jego składniki i instrukcje zostaną przetestowane i sfinalizowane.
+Po dopracowaniu przenieś przepis do tej samej kategorii w folderze `refined/`.

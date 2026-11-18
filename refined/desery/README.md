@@ -1,0 +1,1 @@
+# Desery — sprawdzone
