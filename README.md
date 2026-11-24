@@ -7,15 +7,7 @@ Repozytorium na moje sprawdzone przepisy i pomysły kulinarne.
 - [`refined/`](./refined/) — przepisy ugotowane i dopracowane.
 - [`ideas/`](./ideas/) — przepisy w trakcie opracowywania i niedopracowane pomysły.
 
-Oba foldery mają tę samą strukturę kategorii:
-
-- `dania-glowne/`
-- `desery/`
-- `zupy/`
-- `przystawki-i-przekaski/`
-- `skladniki-i-przyprawy/`
-- `przetwory-i-marynaty/`
-- `napoje/`
+Folder `ideas/` ma płaską strukturę: każdy pomysł opisany jest osobnym plikiem tekstowym Markdown bez podfolderów kategorii.
 
 ## Standardy
 
